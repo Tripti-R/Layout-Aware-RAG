@@ -1,0 +1,21 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.vscode/
+
+# Local document data
+data/originals/*
+data/processed/*
+data/page_images/*
+data/assets/*
+data/logs/*
+
+# Keep directory structure
+!data/originals/.gitkeep
+!data/processed/.gitkeep
+!data/page_images/.gitkeep
+!data/assets/.gitkeep
+!data/logs/.gitkeep

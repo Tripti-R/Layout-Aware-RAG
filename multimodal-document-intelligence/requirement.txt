@@ -1,0 +1,21 @@
+
+# PDF processing
+pymupdf
+docling
+
+# Data models and validation
+pydantic
+pydantic-settings
+
+# Configuration
+python-dotenv
+
+# Image handling
+pillow
+
+# Application and API - used in later milestones
+fastapi
+uvicorn[standard]
+
+# Testing
+pytest
